@@ -8,3 +8,8 @@ Some text for section 1
 Some text for section 2
 
 Some more text for section 2
+
+
+# Section 3
+
+Some text for section 3
